@@ -1,0 +1,2 @@
+# elementary-shop
+Django shop
